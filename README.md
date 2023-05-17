@@ -1,5 +1,5 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-hola jok3rcit0
+
 # Prep Course
 
 #### Introducción
